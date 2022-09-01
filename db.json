@@ -6,7 +6,7 @@
     "email": "rogerio.barreto@proa.ai",
     "curso": "DIREITO",
 	"status": "CURSANDO",
-	"modalidade": "PRESENCIAL"
+	"modalidade": "PRESENCIAL",
 	"tipo_graduacao": "GRADUAÇÃO"
   },
   {
@@ -15,7 +15,7 @@
     "email": "vitor.viscome@proa.ai",
     "curso": "ARQUITETURA",
 	"status": "CONCLUIDO",
-	"modalidade": "PRESENCIAL"
+	"modalidade": "PRESENCIAL",
 	"tipo_graduacao": "GRADUAÇÃO"
   },
   {
@@ -24,7 +24,7 @@
     "email": "gabriela.morais@proa.ai",
     "curso": "ENFERMAGEM",
 	"status": "TRANCADO",
-	"modalidade": "EAD"
+	"modalidade": "EAD",
 	"tipo_graduacao": "GRADUAÇÃO"
   },
   {
@@ -33,7 +33,7 @@
     "email": "alex.passomato@proa.ai",
     "curso": "ARQUITETURA",
 	"status": "CONCLUIDO",
-	"modalidade": "PRESENCIAL"
+	"modalidade": "PRESENCIAL",
 	"tipo_graduacao": "GRADUAÇÃO"
   }
   ],
